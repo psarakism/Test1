@@ -6,7 +6,7 @@ env:
   - LANG=en_US.UTF-8
   - PROJECT=TestFramework/TestFramework.xcodeproj
   - IOS_SCHEME="TestFrameworkiOS"
-  - IOS_SDK=iphonesimulator9.2
+  - IOS_SDK=iphonesimulator10.3
   - OSX_SCHEME="TestFrameworkOSX"
   - OSX_SDK=macosx10.11
   matrix:
